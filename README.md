@@ -1,2 +1,2 @@
 # R2Unpacker
-R2Beat、音速觉醒 的pak 文件解压的Java版算法。
+R2Beat、音速觉醒 游戏中pak文件的解压算法JAVA版本
